@@ -17,11 +17,6 @@
 
     <repositories>
         <repository>
-            <id>localRepository</id>
-            <name>localRepository</name>
-            <url>http://192.168.7.9:8081/nexus/content/groups/public/</url>
-        </repository>
-        <repository>
             <id>oschina</id>
             <name>oschina Repository</name>
             <url>http://maven.oschina.net/content/groups/public/</url>
